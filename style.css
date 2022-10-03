@@ -31,10 +31,12 @@
     flex-direction: column;
 }
 h2{
-    background-color: rgb(161, 148, 148);
+    background-color: rgb(214, 213, 213);
     width: 100%;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
+    padding: 5px;
+    margin-top: 10px;
 }
 button{
     width: 300px;
